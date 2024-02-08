@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69840989.css",
+    "main.js": "/static/js/main.a38bcb8f.js",
+    "static/js/592.a92ceb82.chunk.js": "/static/js/592.a92ceb82.chunk.js",
+    "static/media/login-bg.png": "/static/media/login-bg.134a1e2571c7b0d73a10.png",
+    "static/media/quote-pros-logo-large.webp": "/static/media/quote-pros-logo-large.cb09b6086395d14a2060.webp",
+    "static/media/user-image.webp": "/static/media/user-image.a282e24061066f7d4b5f.webp",
+    "static/media/quote-pros-logo.webp": "/static/media/quote-pros-logo.c9f5472c86490245d429.webp",
+    "index.html": "/index.html",
+    "main.69840989.css.map": "/static/css/main.69840989.css.map",
+    "main.a38bcb8f.js.map": "/static/js/main.a38bcb8f.js.map",
+    "592.a92ceb82.chunk.js.map": "/static/js/592.a92ceb82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69840989.css",
+    "static/js/main.a38bcb8f.js"
+  ]
+}
